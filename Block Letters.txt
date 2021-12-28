@@ -1,0 +1,10 @@
+# Emaanuel Adjei
+# fufu is my favorite food
+
+print("EEEEE    A   ")
+print("E       A A  ")
+print("E      A   A ")
+print("EEE    AAAAA ")
+print("E      A   A ")
+print("E      A   A ")
+print("EEEEE  A   A ")
